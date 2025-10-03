@@ -27,9 +27,3 @@ https://www.eoeca.com
 
 <h3>- 학교별 익명 게시판 기능</h3>
 <p>학교에 좋아하는 사람이 있다면 메시지, 고백, 일상 이야기 등 익명으로 글을 남길 수 있습니다.</p>
-
-<h3>- 랜덤채팅 주소</h3>
-https://www.eoeca.com/rand
-
-<h3>- 소개팅 주소</h3>
-https://www.eoeca.com/ium
